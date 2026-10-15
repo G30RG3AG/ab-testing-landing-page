@@ -128,15 +128,7 @@ Recomendaciones de negocio
   suficiente de una asociación con la conversión.
 - Validar el rendimiento de la versión B después de su implementación
   y vigilar los indicadores a lo largo del tiempo.
-Cómo reproducir el análisis
-1. Clona o descarga este repositorio.
-2. Obtén landing_experiment.csv desde la fuente autorizada y colócalo
-   en la ruta que utilice el notebook.
-3. Abre ab_testing_analysis.ipynb en Jupyter Notebook o JupyterLab.
-4. Instala las bibliotecas necesarias si aún no están disponibles:
-   pip install pandas numpy scipy statsmodels matplotlib seaborn jupyter
-5. Ejecuta las celdas en orden para reproducir la exploración, las
-   pruebas estadísticas y las visualizaciones.
+
 
 Autor
 Proyecto de análisis de datos desarrollado como parte de la formación en
